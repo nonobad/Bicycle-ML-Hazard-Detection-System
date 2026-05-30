@@ -1,0 +1,1 @@
+This is a system that will help bicyclists detect hazards as they ride by using a webcam, Raspberry Pi, and a portable charger. As video feed is given to the Pi, it is run through the ultralytics ML model, and the objects detected will be used to determine if a hazard is in view. 
